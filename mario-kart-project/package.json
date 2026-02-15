@@ -1,0 +1,17 @@
+{
+  "name": "mario-kart-js",
+  "version": "1.0.0",
+  "description": "Simulador de corrida de Mario Kart usando Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "C:\\Progra~1\\nodejs\\node.exe src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mario-kart",
+    "node.js",
+    "dio"
+  ],
+  "author": "b3rnardo_15",
+  "license": "ISC"
+}
